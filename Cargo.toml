@@ -1,0 +1,8 @@
+[package]
+name = "rust_playground"
+version = "0.1.0"
+authors = ["Nathan Friedly <nathan@nfriedly.com>"]
+
+[dependencies]
+unicode-segmentation = "1.2.0"
+regex = "0.2"
